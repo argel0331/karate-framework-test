@@ -1,0 +1,4 @@
+{
+  "java.configuration.updateBuildConfiguration": "disabled",
+  "karateRunner.karateRunner.default": "_SyncRunner"
+}
